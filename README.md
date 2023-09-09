@@ -12,6 +12,6 @@ B.S. Data Science 2026
 - Developed a predictive model using logistic regression and sklearn for forecasting player career outcomes, supported by data analysis and visualization tools like seaborn
 
 ### Links
-[github](https://github.com/danielbirman28)
+[GitHub](https://github.com/danielbirman28)
 
-[resume](https://docs.google.com/document/d/113q53QnoPq2EzEXJj2FVPxVrnrm9setfLbE5BVbI3Zo/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/113q53QnoPq2EzEXJj2FVPxVrnrm9setfLbE5BVbI3Zo/edit?usp=sharing)
