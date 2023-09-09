@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Undergraduate
 
 ### Education
 University of California, San Diego
