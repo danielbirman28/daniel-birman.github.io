@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education
-University of California, San Diego	
+University of California, San Diego
+
 B.S. Data Science 2026
 
 ### Projects
