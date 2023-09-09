@@ -2,6 +2,7 @@
 
 ### Education
 University of California, San Diego
+
 B.S. Data Science 2026
 
 ### Projects
@@ -12,4 +13,5 @@ B.S. Data Science 2026
 
 ### Links
 [github](https://github.com/danielbirman28)
+
 [resume](https://docs.google.com/document/d/113q53QnoPq2EzEXJj2FVPxVrnrm9setfLbE5BVbI3Zo/edit?usp=sharing)
