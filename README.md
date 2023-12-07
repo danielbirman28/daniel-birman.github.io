@@ -12,6 +12,6 @@ B.S. Data Science - 2026
 - Employed data cleaning techniques, mathematical adjustments, and DataFrame concatenation to categorize NBA players' career outcomes season by season
 
 ### Links
-[GitHub](https://github.com/danielbirman28)
+[LinkedIn](https://www.linkedin.com/in/daniel-birman/)
 
 [Resume](https://docs.google.com/document/d/113q53QnoPq2EzEXJj2FVPxVrnrm9setfLbE5BVbI3Zo/edit?usp=sharing)
