@@ -1,7 +1,6 @@
-### Links
 [LinkedIn](https://www.linkedin.com/in/daniel-birman/)
 
-[Resume](https://docs.google.com/document/d/113q53QnoPq2EzEXJj2FVPxVrnrm9setfLbE5BVbI3Zo/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1mO9hBW8wmAvZ89o497MCR9KlM0D5eHn4X_d4rSOxzUw/edit)
 
 ### Education
 University of California, San Diego
