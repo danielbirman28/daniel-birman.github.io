@@ -1,4 +1,4 @@
-[LinkedIn], (https://www.linkedin.com/in/daniel-birman/)[Resume], (https://docs.google.com/document/d/1mO9hBW8wmAvZ89o497MCR9KlM0D5eHn4X_d4rSOxzUw/edit)[GitHub], (https://github.com/danielbirman28)
+[LinkedIn, ](https://www.linkedin.com/in/daniel-birman/)[Resume, ](https://docs.google.com/document/d/1mO9hBW8wmAvZ89o497MCR9KlM0D5eHn4X_d4rSOxzUw/edit)[GitHub](https://github.com/danielbirman28)
 
 ### Education
 University of California, San Diego
