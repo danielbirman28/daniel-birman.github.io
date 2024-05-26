@@ -39,7 +39,7 @@ GPA: 3.6
 
 
 ### Leadership Experience
-#### Vice President External Subcommittee - September 2023 to Present
+#### Vice President External Subcommittee - September 2023 - Present
 - Collaborated on gaining sponsorships while facilitating industry connections and sponsors
 - Furthered the creation of strong connections with other organizations on campus for collaborating on events
 
