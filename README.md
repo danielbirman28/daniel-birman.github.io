@@ -10,6 +10,24 @@ Expected Graduation - March 2026
 GPA: 3.6
 
 
+### Experience
+#### Deloitte	-- Data Science Mentorship Program -- April 2024 to June 2024
+
+- Worked alongside a team of data science students, fostering a collaborative environment to leverage advanced data visualization techniques and extract valuable insights from a comprehensive dataset
+- By visualizing sales patterns, customer behavior, and product trends, I identified key growth opportunities and provided actionable recommendations to optimize business strategies and enhance overall performance
+- Presented our findings in a presentation to a group of Deloitte industry professionals and staff engineers
+- Was able to communicate difficult topics in a simple matter to teammates and throughout the presentation
+- Demonstrated leadership by guiding team discussions and coordinating efforts to visualize sales patterns, customer behavior, and product trends, identifying key growth opportunities
+- Optimized business strategies and enhanced overall performance through data-driven insights
+- Emphasized effective communication and teamwork, ensuring all team members contributed their strengths and talents
+- Cultivated a supportive learning atmosphere, helping peers and enhancing collective problem-solving skills
+
+#### Data Science Student Society (DS3)	-- Fantasy Football Points Predictor -- Jan 2024 to May 2024
+- Successfully created a model that could predict an NFL player’s fantasy football points for a given week, based off data from previous seasons
+- Employed multiple machine learning models and compared their accuracies to determine the most effective one
+- Improved the root mean squared error by 40% compared to initial model testing
+
+
 ### Projects
 #### NBA Machine Learning Model - July 2023
 - Tools: Python, pandas, NumPy, sklearn, seaborn, jupyter notebook
@@ -17,12 +35,9 @@ GPA: 3.6
 - Analyzed and manipulated multiple datasets with over 10,000 rows of NBA player stats using Python, pandas, and NumPy
 - Employed data cleaning techniques, mathematical adjustments, and data frame concatenation to categorize NBA players' career outcomes season by season
 
-#### Image Processing App (Python) - March 2023
-- Coded the ability to negate, grayscale, rotate 180°, replace the background image, replace specific color, and add a sticker overlay to an inputted RGB Image
-- Implemented a K-nearest Neighbors (KNN) machine learning classifier to predict a label for a given RGB image
 
 ### Leadership Experience
-#### Vice President External Subcommittee - September 2023 - Present
+#### Vice President External Subcommittee - September 2023 to Present
 - Collaborated on gaining sponsorships while facilitating industry connections and sponsors
 - Furthered the creation of strong connections with other organizations on campus for collaborating on events
 
