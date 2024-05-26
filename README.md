@@ -11,7 +11,8 @@ GPA: 3.6
 
 
 ### Experience
-#### Deloitte	-- Data Science Mentorship Program -- April 2024 to June 2024
+#### Deloitte
+#### Data Science Mentorship Program, April 2024 - June 2024
 
 - Worked alongside a team of data science students, fostering a collaborative environment to leverage advanced data visualization techniques and extract valuable insights from a comprehensive dataset
 - By visualizing sales patterns, customer behavior, and product trends, I identified key growth opportunities and provided actionable recommendations to optimize business strategies and enhance overall performance
@@ -22,7 +23,8 @@ GPA: 3.6
 - Emphasized effective communication and teamwork, ensuring all team members contributed their strengths and talents
 - Cultivated a supportive learning atmosphere, helping peers and enhancing collective problem-solving skills
 
-#### Data Science Student Society (DS3)	-- Fantasy Football Points Predictor -- Jan 2024 to May 2024
+#### Data Science Student Society (DS3)
+#### Fantasy Football Points Predictor, Jan 2024 - May 2024
 - Successfully created a model that could predict an NFL player’s fantasy football points for a given week, based off data from previous seasons
 - Employed multiple machine learning models and compared their accuracies to determine the most effective one
 - Improved the root mean squared error by 40% compared to initial model testing
